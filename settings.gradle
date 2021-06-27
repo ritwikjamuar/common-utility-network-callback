@@ -1,0 +1,3 @@
+rootProject.name = "common-utility-network-callback"
+include ':app'
+include ':common_utility_network_callback'
